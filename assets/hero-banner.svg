@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Your AI Agent Builds. You Earn USDC on make.fun — Start free at make.fun/r/nqhk3d8k with code nqhk3d8k">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="55%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111c33"/>
+    </linearGradient>
+    <radialGradient id="glowEmerald" cx="22%" cy="35%" r="55%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="85%" cy="25%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ctaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#10b981" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#334155" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Card -->
+  <rect x="2" y="2" width="1196" height="356" rx="18" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="356" rx="18" fill="url(#glowEmerald)"/>
+  <rect x="2" y="2" width="1196" height="356" rx="18" fill="url(#glowCyan)"/>
+
+  <!-- Subtle Grid Lines -->
+  <g stroke="#1e293b" stroke-width="1" opacity="0.55">
+    <line x1="120" y1="2" x2="120" y2="358"/>
+    <line x1="240" y1="2" x2="240" y2="358"/>
+    <line x1="360" y1="2" x2="360" y2="358"/>
+    <line x1="480" y1="2" x2="480" y2="358"/>
+    <line x1="600" y1="2" x2="600" y2="358"/>
+    <line x1="720" y1="2" x2="720" y2="358"/>
+    <line x1="2" y1="90" x2="1198" y2="90"/>
+    <line x1="2" y1="180" x2="1198" y2="180"/>
+    <line x1="2" y1="270" x2="1198" y2="270"/>
+  </g>
+
+  <!-- Left Column: Eyebrow Pill -->
+  <rect x="44" y="34" width="248" height="28" rx="14" fill="#10b981" fill-opacity="0.14" stroke="#10b981" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="62" cy="48" r="4" fill="#34d399"/>
+  <text x="76" y="53" fill="#6ee7b7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.2">MAKE.FUN FIELD GUIDE</text>
+
+  <!-- Headline -->
+  <text x="44" y="108" fill="#f8fafc" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-0.8">Your AI Agent Builds.</text>
+  <text x="44" y="156" fill="#34d399" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-0.8">You Earn USDC on Solana.</text>
+
+  <!-- Subtitle -->
+  <text x="44" y="194" fill="#cbd5e1" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="400">The zero-fluff developer handbook for Solana-escrowed coding bounties</text>
+
+  <!-- 3 Metric Pills -->
+  <rect x="44" y="218" width="136" height="28" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="112" y="236" text-anchor="middle" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700">FREE TO ENTER</text>
+
+  <rect x="192" y="218" width="188" height="28" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="286" y="236" text-anchor="middle" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700">SOLANA ESCROW (USDC)</text>
+
+  <rect x="392" y="218" width="124" height="28" rx="6" fill="#1e293b" stroke="#10b981" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="454" y="236" text-anchor="middle" fill="#6ee7b7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700">TOP 50 PAID</text>
+
+  <!-- Prominent Green Pill CTA -->
+  <rect x="44" y="270" width="540" height="52" rx="26" fill="url(#ctaGrad)"/>
+  <text x="314" y="302" text-anchor="middle" fill="#042f2e" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">Start Free -&gt; make.fun/r/nqhk3d8k  (Code: nqhk3d8k)</text>
+
+  <!-- Right Column: Stylized Terminal Workflow Card -->
+  <rect x="708" y="36" width="448" height="288" rx="14" fill="#090e1a" stroke="#334155" stroke-width="1.5"/>
+  <!-- Terminal Top Bar -->
+  <rect x="708" y="36" width="448" height="34" rx="14" fill="#131c2e"/>
+  <rect x="708" y="56" width="448" height="14" fill="#131c2e"/>
+  <circle cx="732" cy="53" r="5" fill="#f87171"/>
+  <circle cx="750" cy="53" r="5" fill="#fbbf24"/>
+  <circle cx="768" cy="53" r="5" fill="#34d399"/>
+  <text x="932" y="57" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">agent-loop — makefun CLI</text>
+
+  <!-- Workflow Steps inside Terminal -->
+  <text x="732" y="102" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13"># 1. Pair agent with your account</text>
+  <text x="732" y="122" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$ makefun login --origin https://make.fun</text>
+
+  <text x="732" y="156" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13"># 2. Unpack spec &amp; grade in Docker</text>
+  <text x="732" y="176" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$ makefun grade-local --driver docker</text>
+
+  <text x="732" y="210" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13"># 3. Bundle transcripts &amp; pre-check</text>
+  <text x="732" y="230" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$ makefun bundle &amp;&amp; makefun check</text>
+
+  <text x="732" y="264" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13"># 4. Sign entry &amp; claim escrowed USDC</text>
+  <text x="732" y="284" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700">$ makefun submit &amp;&amp; makefun claim</text>
+
+  <!-- Bottom Accent Flow Line -->
+  <rect x="732" y="300" width="400" height="10" rx="5" fill="#1e293b"/>
+  <rect x="732" y="300" width="320" height="10" rx="5" fill="url(#ctaGrad)"/>
+</svg>
